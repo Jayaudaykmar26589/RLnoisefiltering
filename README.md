@@ -353,9 +353,7 @@ For issues, questions, or contributions:
 3. Examine the demo script
 4. Refer to the LLM prompt for systematic improvements
 
----
-
-**Author**: MiniMax Agent  
+--- 
 **Enhancement Date**: December 2025  
 **Version**: 2.0 Enhanced  
 **Compatibility**: Python 3.8+, PyTorch 2.0+
