@@ -1,0 +1,125 @@
+2025-12-02 23:24:09,575 - improved_noise_filtering_system - INFO - Initializing models completed in 0.15 seconds
+2025-12-02 23:24:12,921 - improved_noise_filtering_system - INFO - Enhanced trainer initialized successfully
+2025-12-02 23:24:12,921 - improved_noise_filtering_system - INFO - ============================================================
+2025-12-02 23:24:12,921 - improved_noise_filtering_system - INFO - MODEL ARCHITECTURE SUMMARY
+2025-12-02 23:24:12,921 - improved_noise_filtering_system - INFO - ============================================================
+2025-12-02 23:24:12,921 - improved_noise_filtering_system - INFO - Noise Detector: 2,998,834 parameters
+2025-12-02 23:24:12,924 - improved_noise_filtering_system - INFO - Bayesian Classifier: 1,494,513 parameters
+2025-12-02 23:24:12,926 - improved_noise_filtering_system - INFO - Model Router: 1,135,408 parameters
+2025-12-02 23:24:12,928 - improved_noise_filtering_system - INFO - Filter Selector: 548,883 parameters
+2025-12-02 23:24:12,929 - improved_noise_filtering_system - INFO - Total Parameters: 6,177,638
+2025-12-02 23:24:12,932 - improved_noise_filtering_system - INFO - ============================================================
+2025-12-02 23:24:15,868 - improved_noise_filtering_system - INFO - Training episode 1 completed in 2.93 seconds
+2025-12-02 23:24:18,870 - improved_noise_filtering_system - INFO - Training episode 2 completed in 3.00 seconds
+2025-12-02 23:24:21,465 - improved_noise_filtering_system - INFO - Training episode 3 completed in 2.59 seconds
+2025-12-02 23:24:21,466 - improved_noise_filtering_system - INFO - Starting comprehensive evaluation with 2 samples per domain
+2025-12-02 23:24:21,468 - improved_noise_filtering_system - INFO - Evaluating domain: Customer Support
+2025-12-02 23:24:54,183 - improved_noise_filtering_system - INFO - Initializing models completed in 0.15 seconds
+2025-12-02 23:24:54,952 - improved_noise_filtering_system - INFO - Enhanced trainer initialized successfully
+2025-12-02 23:24:54,952 - improved_noise_filtering_system - INFO - ============================================================
+2025-12-02 23:24:54,952 - improved_noise_filtering_system - INFO - MODEL ARCHITECTURE SUMMARY
+2025-12-02 23:24:54,952 - improved_noise_filtering_system - INFO - ============================================================
+2025-12-02 23:24:54,952 - improved_noise_filtering_system - INFO - Noise Detector: 2,998,834 parameters
+2025-12-02 23:24:54,954 - improved_noise_filtering_system - INFO - Bayesian Classifier: 1,494,513 parameters
+2025-12-02 23:24:54,955 - improved_noise_filtering_system - INFO - Model Router: 1,135,408 parameters
+2025-12-02 23:24:54,957 - improved_noise_filtering_system - INFO - Filter Selector: 548,883 parameters
+2025-12-02 23:24:54,958 - improved_noise_filtering_system - INFO - Total Parameters: 6,177,638
+2025-12-02 23:24:54,960 - improved_noise_filtering_system - INFO - ============================================================
+2025-12-02 23:24:58,564 - improved_noise_filtering_system - INFO - Training episode 1 completed in 3.60 seconds
+2025-12-02 23:25:01,869 - improved_noise_filtering_system - INFO - Training episode 2 completed in 3.30 seconds
+2025-12-02 23:25:04,764 - improved_noise_filtering_system - INFO - Training episode 3 completed in 2.89 seconds
+2025-12-02 23:25:04,765 - improved_noise_filtering_system - INFO - Starting comprehensive evaluation with 2 samples per domain
+2025-12-02 23:25:04,766 - improved_noise_filtering_system - INFO - Evaluating domain: Customer Support
+2025-12-02 23:25:07,164 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.40 seconds
+2025-12-02 23:25:08,965 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 1.80 seconds
+2025-12-02 23:25:10,969 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.00 seconds
+2025-12-02 23:25:13,367 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.40 seconds
+2025-12-02 23:25:15,567 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.20 seconds
+2025-12-02 23:25:17,266 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 1.70 seconds
+2025-12-02 23:25:19,466 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.20 seconds
+2025-12-02 23:25:21,766 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.30 seconds
+2025-12-02 23:25:23,667 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 1.90 seconds
+2025-12-02 23:25:25,671 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.00 seconds
+2025-12-02 23:25:27,767 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.10 seconds
+2025-12-02 23:25:29,567 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 1.80 seconds
+2025-12-02 23:25:31,869 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.30 seconds
+2025-12-02 23:25:34,067 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.20 seconds
+2025-12-02 23:25:34,068 - improved_noise_filtering_system - INFO - Evaluating domain: Social Media
+2025-12-02 23:25:36,268 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.20 seconds
+2025-12-02 23:25:38,467 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.20 seconds
+2025-12-02 23:25:40,467 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.00 seconds
+2025-12-02 23:25:42,566 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.10 seconds
+2025-12-02 23:25:44,667 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.10 seconds
+2025-12-02 23:25:46,167 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 1.50 seconds
+2025-12-02 23:25:48,369 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.20 seconds
+2025-12-02 23:25:50,367 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.00 seconds
+2025-12-02 23:25:52,868 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.50 seconds
+2025-12-02 23:25:54,767 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 1.90 seconds
+2025-12-02 23:25:56,869 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.10 seconds
+2025-12-02 23:25:58,968 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.10 seconds
+2025-12-02 23:26:01,270 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.30 seconds
+2025-12-02 23:26:03,267 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.00 seconds
+2025-12-02 23:26:03,267 - improved_noise_filtering_system - INFO - Evaluating domain: Medical
+2025-12-02 23:26:04,967 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 1.70 seconds
+2025-12-02 23:26:07,267 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.30 seconds
+2025-12-02 23:26:09,067 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 1.80 seconds
+2025-12-02 23:26:11,365 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.30 seconds
+2025-12-02 23:26:13,568 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.20 seconds
+2025-12-02 23:26:15,870 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.30 seconds
+2025-12-02 23:26:18,367 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.50 seconds
+2025-12-02 23:26:20,565 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.20 seconds
+2025-12-02 23:26:22,966 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.40 seconds
+2025-12-02 23:26:24,966 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.00 seconds
+2025-12-02 23:26:26,967 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.00 seconds
+2025-12-02 23:26:29,268 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.30 seconds
+2025-12-02 23:26:31,667 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.40 seconds
+2025-12-02 23:26:33,768 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.10 seconds
+2025-12-02 23:26:33,768 - improved_noise_filtering_system - INFO - Evaluating domain: Technical
+2025-12-02 23:26:35,770 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.00 seconds
+2025-12-02 23:26:37,866 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.10 seconds
+2025-12-02 23:26:40,067 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.20 seconds
+2025-12-02 23:26:42,269 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.20 seconds
+2025-12-02 23:26:44,267 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.00 seconds
+2025-12-02 23:26:46,068 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 1.80 seconds
+2025-12-02 23:26:48,266 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.20 seconds
+2025-12-02 23:26:50,568 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.30 seconds
+2025-12-02 23:26:52,869 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.30 seconds
+2025-12-02 23:26:54,666 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 1.80 seconds
+2025-12-02 23:26:56,667 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.00 seconds
+2025-12-02 23:26:58,667 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.00 seconds
+2025-12-02 23:27:00,867 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.20 seconds
+2025-12-02 23:27:02,867 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.00 seconds
+2025-12-02 23:27:02,867 - improved_noise_filtering_system - INFO - Evaluating domain: Academic
+2025-12-02 23:27:05,070 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.20 seconds
+2025-12-02 23:27:07,568 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.50 seconds
+2025-12-02 23:27:09,468 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 1.90 seconds
+2025-12-02 23:27:11,265 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 1.80 seconds
+2025-12-02 23:27:13,666 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.40 seconds
+2025-12-02 23:27:15,467 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 1.80 seconds
+2025-12-02 23:27:17,568 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.10 seconds
+2025-12-02 23:27:19,467 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 1.90 seconds
+2025-12-02 23:27:21,667 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.20 seconds
+2025-12-02 23:27:23,668 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.00 seconds
+2025-12-02 23:27:25,567 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 1.90 seconds
+2025-12-02 23:27:27,867 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.30 seconds
+2025-12-02 23:27:30,167 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.30 seconds
+2025-12-02 23:27:32,268 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.10 seconds
+2025-12-02 23:27:32,268 - improved_noise_filtering_system - INFO - Evaluating domain: Legal
+2025-12-02 23:27:34,467 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.10 seconds
+2025-12-02 23:27:36,466 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.00 seconds
+2025-12-02 23:27:38,567 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 2.10 seconds
+2025-12-02 23:27:40,569 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.00 seconds
+2025-12-02 23:27:42,867 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 2.30 seconds
+2025-12-02 23:27:45,167 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.30 seconds
+2025-12-02 23:27:47,069 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 1.90 seconds
+2025-12-02 23:27:49,070 - improved_noise_filtering_system - INFO - Evaluating Clean sample completed in 2.00 seconds
+2025-12-02 23:27:51,368 - improved_noise_filtering_system - INFO - Evaluating OCR sample completed in 2.30 seconds
+2025-12-02 23:27:53,167 - improved_noise_filtering_system - INFO - Evaluating ASR sample completed in 1.80 seconds
+2025-12-02 23:27:55,167 - improved_noise_filtering_system - INFO - Evaluating Typo sample completed in 2.00 seconds
+2025-12-02 23:27:56,869 - improved_noise_filtering_system - INFO - Evaluating Adversarial sample completed in 1.70 seconds
+2025-12-02 23:27:59,267 - improved_noise_filtering_system - INFO - Evaluating Semantic sample completed in 2.40 seconds
+2025-12-02 23:28:01,670 - improved_noise_filtering_system - INFO - Evaluating Mixed sample completed in 2.40 seconds
+2025-12-02 23:28:01,670 - improved_noise_filtering_system - INFO - Evaluation completed: 84 samples processed
+2025-12-02 23:28:02,525 - improved_noise_filtering_system - INFO - Training plots saved to demo_outputs/training_results.png
+2025-12-02 23:28:03,965 - improved_noise_filtering_system - INFO - Evaluation plots saved to demo_outputs/evaluation_results.png
+2025-12-02 23:28:04,954 - improved_noise_filtering_system - INFO - Advanced analysis plots saved to demo_outputs/advanced_analysis.png

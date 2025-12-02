@@ -1,0 +1,31 @@
+# Enhanced Requirements for Improved Noise Filtering System
+# Core PyTorch and ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Scientific computing
+numpy>=1.21.0
+scipy>=1.9.0
+scikit-learn>=1.2.0
+pandas>=1.5.0
+
+# Visualization libraries
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Additional utilities
+tqdm>=4.65.0
+tensorboard>=2.13.0
+wandb>=0.15.0
+
+# Development and debugging
+pytest>=7.3.0
+black>=23.3.0
+flake8>=6.0.0
+mypy>=1.3.0
+
+# Note: Some packages like plotly, scipy, scikit-learn may require additional system dependencies
+# For Ubuntu/Debian: sudo apt-get install build-essential python3-dev
+# For conda environments: conda install -c conda-forge plotly scipy scikit-learn
